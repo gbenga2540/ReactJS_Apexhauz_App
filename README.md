@@ -1,1 +1,1 @@
-React Project for test Node JS Product App REST API
+React Project for testing Node JS Product App REST API
