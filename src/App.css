@@ -1,0 +1,16 @@
+.App_main {
+    background-color: #f5f6f7;
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin: 5px;
+}

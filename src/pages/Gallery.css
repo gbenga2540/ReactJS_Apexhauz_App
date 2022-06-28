@@ -1,0 +1,37 @@
+.gallery_main {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.gallery_text {
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.gallery_form {
+    border: 3px solid gray;
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.gallery_input {
+    background-color: gainsboro;
+    width: auto;
+    height: auto;
+}
+
+.gallery_button {
+    margin-top: 10px;
+}
+
+.gallery_img {
+    width: 300px;
+    height: auto;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 1.4px 1.4px 15px rgba(0, 0, 0, 0.7);
+}
